@@ -2,6 +2,9 @@
 
 This is a fork from [plougher/squashfs-tools](https://github.com/plougher/squashfs-tools) since the upstream project seems to be stalled since quite some time.
 
+It incorporates the following patches:
+ * Add -offset option to skip n bytes [#13](https://github.com/plougher/squashfs-tools/pull/13)
+
 ## Original README
 
 Git status:
