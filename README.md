@@ -1,3 +1,9 @@
+# squashhfs-tools
+
+This is a fork from [plougher/squashfs-tools](https://github.com/plougher/squashfs-tools) since the upstream project seems to be stalled since quite some time.
+
+## Original README
+
 Git status:
 
 This is the squashfs.sourceforge.net CVS repository imported into this
